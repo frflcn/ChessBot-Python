@@ -1,0 +1,29 @@
+Skill Level: 0
+        Won: 4
+        Drawn: 4
+        Lost: 1
+
+Skill Level: 1
+        Won: 4
+        Drawn: 3
+        Lost: 3
+
+Skill Level: 2
+        Won: 6
+        Drawn: 8
+        Lost: 3
+
+Skill Level: 3
+        Won: 6
+        Drawn: 8
+        Lost: 5
+
+Skill Level: 4
+        Won: 4
+        Drawn: 2
+        Lost: 5
+
+Skill Level: 5
+        Won: 0
+        Drawn: 0
+        Lost: 3
